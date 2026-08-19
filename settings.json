@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftforlife.play.hosting",
-    "port": 24402,
+    "ip": "minecraftforlife67.aternos.me",
+    "port": 18125,
     "version": "1.21.1",
     "try-creative": false
   },
