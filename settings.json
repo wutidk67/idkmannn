@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftforlife.play.hosting",
+    "ip": "127.0.0.1",
     "port": 24402,
     "version": "1.21.1",
     "try-creative": false
