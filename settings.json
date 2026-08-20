@@ -1,7 +1,7 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "ImNoOne",
+    "username": "MyLifeIsAFK",
     "password": "",
     "type": "offline"
   },
@@ -52,7 +52,7 @@
     },
     "random-jump": {
       "enabled": true,
-      "interval": 10000
+      "interval": 1000
     }
   },
   "modules": {
