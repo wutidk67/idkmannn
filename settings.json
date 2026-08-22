@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "minecraftforlife67.aternos.me",
-    "port": 18125,
+    "ip": "ourlifesteal67.aternos.me",
+    "port": 43696,
     "version": "1.21.1",
     "try-creative": false
   },
@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 540,
       "messages": [
         "Eat Shit"
       ]
