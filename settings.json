@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "MyLifeIsAFK",
+    "username": "ImNoOne",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ourlifesteal67.aternos.me",
-    "port": 43696,
+    "ip": "minecraftforlife67.aternos.me",
+    "port": 18125,
     "version": "1.21.1",
     "try-creative": false
   },
