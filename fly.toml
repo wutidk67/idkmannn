@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for afking2 on 2026-08-23T13:28:22Z
+# fly.toml app configuration file generated for idkmannn on 2026-08-26T10:01:11Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'afking2'
-primary_region = 'sin'
+app = 'idkmannn'
+primary_region = 'ams'
 
 [build]
 
